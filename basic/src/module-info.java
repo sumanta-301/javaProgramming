@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Sumanta
+ *
+ */
+module basic {
+}
